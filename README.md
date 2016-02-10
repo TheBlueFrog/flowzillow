@@ -1,3 +1,8 @@
+
+Added client wrapper to read addresses from a file
+and make call to get prices
+
+
 # flowzillow
 A general python Zillow client that in addition to all documented Zillow APIs utilizes 
 the undocumented Zillow GetResults API. This API is the same one users utilize on the
