@@ -1,6 +1,13 @@
-12437 NW Woodland Court | Portland, OR
-2114 Bigelow Ave | Seattle, WA
-363 Carlsbad Village Dr | Carlsbad, CA
+# comment
+# blank lines are ignored
+# lines contain two fields, separated by the | char
+# the fields are what Zillow expects for street and city-state
+
+# 12437 NW Woodland Court | Portland, OR
+
+# some random places on the southern CA coast
+
+#363 Carlsbad Village Dr | Carlsbad, CA         no estimates
 246 Hemlock Ave | Carlsbad, CA
 1837 S Pacific St | Oceanside, CA
 1101 South Pacific Street | Oceanside, CA
@@ -15,6 +22,22 @@
 2955 Ocean St APT 15 | Carlsbad, CA
 341 Oak Ave | Carlsbad, CA
 
+!average SoCal
+
+# around Folsum CA
+
+6151 Chrysler Cir | Garden Valley, CA
+6226 Homestead Dr | Placerville, CA
+4470 Pleasant Valley Rd | Placerville, CA
+5600 Siesta Ln | Somerset, CA
+1281 Sand Ridge Rd | El Dorado, CA
+6560 Rodwell Canyon Rd | Somerset, CA
+6650 Crystal Blvd | El Dorado, CA
+
+!average Flosum CA
+
+# Miami Beach
+
 500 Lakeview Ct | Miami Beach, FL
 528 Lakeview Ct | Miami Beach, FL
 550 W 50th St | Miami Beach, FL
@@ -26,7 +49,10 @@
 5150 Cherokee Ave | Miami Beach, FL
 755 W 50th St | Miami Beach, FL
 790 W 50th St | Miami Beach, FL
-435 W 51st St | Miami, FL
+435 W 51st St | Miami Beach, FL
 5025 Delaware Ave | Miami Beach, FL
 580 W 49th St | Miami Beach, FL
 5004 N Bay Rd | Miami Beach, FL
+
+!average Miami Beach
+
